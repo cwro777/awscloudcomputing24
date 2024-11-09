@@ -1,0 +1,2 @@
+chmod +x create_users.sh
+./create_users.sh

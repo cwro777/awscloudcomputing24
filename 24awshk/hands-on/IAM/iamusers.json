@@ -1,0 +1,14 @@
+[
+    {
+        "UserName": "cwuser1",
+        "PermissionsBoundary": "arn:aws:iam::aws:policy/cwuserpolicy1"
+    },
+    {
+        "UserName": "cwuser2",
+        "PermissionsBoundary": "arn:aws:iam::aws:policy/cwuserpolicy1"
+    },
+    {
+        "UserName": "cwuser3",
+        "PermissionsBoundary": "arn:aws:iam::aws:policy/cwuserpolicy1"
+    }
+]

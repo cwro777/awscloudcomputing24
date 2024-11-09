@@ -1,0 +1,5 @@
+import json
+
+data = [{"UserName": f"cwuser{i}"} for i in range(10, 41)]
+json_data = json.dumps(data, indent=4)
+print(json_data)

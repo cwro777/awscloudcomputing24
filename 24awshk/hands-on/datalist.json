@@ -1,0 +1,28 @@
+{
+	"person":[
+		{
+		"emp_id": "5678",
+		"name": "silla",
+		"age": 30,
+		"location":["busan","사상구"]
+		},
+		{
+		"emp_id": "22",
+		"name": "seyeong",
+		"age": 22,
+		"location":["창원","성산"]
+		},
+		{
+		"emp_id": "3333",
+		"name": "heesoo",
+		"age": 20,
+		"location":["seoul","Kangnam"]
+		},
+		{
+		"emp_id": "5555",
+		"name": "jaewon",
+		"age": 10,
+		"location":["daegu","sooseung"]
+		}
+	]
+}
